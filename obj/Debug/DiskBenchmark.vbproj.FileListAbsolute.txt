@@ -1,0 +1,36 @@
+C:\Users\ACER\Downloads\DiskBenchmark1.0\bin\Debug\DiskBenchmark.exe
+C:\Users\ACER\Downloads\DiskBenchmark1.0\bin\Debug\DiskBenchmark.pdb
+C:\Users\ACER\Downloads\DiskBenchmark1.0\bin\Debug\DiskBenchmark.xml
+C:\Users\ACER\Downloads\DiskBenchmark1.0\obj\Debug\DiskBenchmark.Form1.resources
+C:\Users\ACER\Downloads\DiskBenchmark1.0\obj\Debug\DiskBenchmark.FormAbout.resources
+C:\Users\ACER\Downloads\DiskBenchmark1.0\obj\Debug\DiskBenchmark.FormHelp.resources
+C:\Users\ACER\Downloads\DiskBenchmark1.0\obj\Debug\DiskBenchmark.FormSettings.resources
+C:\Users\ACER\Downloads\DiskBenchmark1.0\obj\Debug\DiskBenchmark.Resources.resources
+C:\Users\ACER\Downloads\DiskBenchmark1.0\obj\Debug\DiskBenchmark.vbproj.GenerateResource.Cache
+C:\Users\ACER\Downloads\DiskBenchmark1.0\obj\Debug\DiskBenchmark.exe
+C:\Users\ACER\Downloads\DiskBenchmark1.0\obj\Debug\DiskBenchmark.xml
+C:\Users\ACER\Downloads\DiskBenchmark1.0\obj\Debug\DiskBenchmark.pdb
+C:\Users\ACER\Documents\DISK BENCHMARK\2.0\EN\obj\Debug\DiskBenchmark.exe
+C:\Users\ACER\Documents\DISK BENCHMARK\2.0\EN\obj\Debug\DiskBenchmark.xml
+C:\Users\ACER\Documents\DISK BENCHMARK\2.0\EN\obj\Debug\DiskBenchmark.pdb
+C:\Users\ACER\Documents\DISK BENCHMARK\2.0\EN\bin\Debug\DiskBenchmark.exe
+C:\Users\ACER\Documents\DISK BENCHMARK\2.0\EN\bin\Debug\DiskBenchmark.pdb
+C:\Users\ACER\Documents\DISK BENCHMARK\2.0\EN\bin\Debug\DiskBenchmark.xml
+C:\Users\ACER\Documents\DISK BENCHMARK\2.0\EN\obj\Debug\DiskBenchmark.Form1.resources
+C:\Users\ACER\Documents\DISK BENCHMARK\2.0\EN\obj\Debug\DiskBenchmark.FormAbout.resources
+C:\Users\ACER\Documents\DISK BENCHMARK\2.0\EN\obj\Debug\DiskBenchmark.FormHelp.resources
+C:\Users\ACER\Documents\DISK BENCHMARK\2.0\EN\obj\Debug\DiskBenchmark.FormSettings.resources
+C:\Users\ACER\Documents\DISK BENCHMARK\2.0\EN\obj\Debug\DiskBenchmark.Resources.resources
+C:\Users\ACER\Documents\DISK BENCHMARK\2.0\EN\obj\Debug\DiskBenchmark.vbproj.GenerateResource.Cache
+C:\Users\ACER\Documents\DISK BENCHMARK\2.0\EN-Default\obj\Debug\DiskBenchmark.exe
+C:\Users\ACER\Documents\DISK BENCHMARK\2.0\EN-Default\obj\Debug\DiskBenchmark.xml
+C:\Users\ACER\Documents\DISK BENCHMARK\2.0\EN-Default\obj\Debug\DiskBenchmark.pdb
+C:\Users\ACER\Documents\DISK BENCHMARK\2.0\EN-Default\bin\Debug\DiskBenchmark.exe
+C:\Users\ACER\Documents\DISK BENCHMARK\2.0\EN-Default\bin\Debug\DiskBenchmark.pdb
+C:\Users\ACER\Documents\DISK BENCHMARK\2.0\EN-Default\bin\Debug\DiskBenchmark.xml
+C:\Users\ACER\Documents\DISK BENCHMARK\2.0\EN-Default\obj\Debug\DiskBenchmark.Form1.resources
+C:\Users\ACER\Documents\DISK BENCHMARK\2.0\EN-Default\obj\Debug\DiskBenchmark.FormAbout.resources
+C:\Users\ACER\Documents\DISK BENCHMARK\2.0\EN-Default\obj\Debug\DiskBenchmark.FormHelp.resources
+C:\Users\ACER\Documents\DISK BENCHMARK\2.0\EN-Default\obj\Debug\DiskBenchmark.FormSettings.resources
+C:\Users\ACER\Documents\DISK BENCHMARK\2.0\EN-Default\obj\Debug\DiskBenchmark.Resources.resources
+C:\Users\ACER\Documents\DISK BENCHMARK\2.0\EN-Default\obj\Debug\DiskBenchmark.vbproj.GenerateResource.Cache
